@@ -1,0 +1,1 @@
+InventALLab is a software that provides its user access to a platform that allows the  management of the stock from a store or a laboratory, or even a personal/home inventory.
